@@ -1,3 +1,4 @@
+
 # 🛍️ Product Management Web App
 
 A full-stack web application that allows users to register, log in, and manage a list of products. Built using **React.js** (frontend) and **Node.js + Express** (backend), the app provides complete CRUD functionality with secure **JWT-based authentication**.
@@ -37,11 +38,10 @@ Users can filter, search, upload product images, and experience role-based acces
 - Filter by category, rating, price range
 - Search by name or description
 
-### 🚀 Bonus Features
+### 🚀 Bonus Features-
 - ✅ Product Image Upload
 - ✅ Pagination
 - ✅ Sorting (price, rating)
 - ✅ Role-based Access Control (Admin vs User)
-
-
+# product_Management_WebApp
 
